@@ -1,4 +1,5 @@
 # Staże i oferty pracy 2025/2026
+Podsumowanie ofert pracy podsyłanych na kanale `#ogłoszenia-praca` naszego Discorda
 | Firma                  | Pozycja                                      |  Termin zgłoszeń                              | Link       |
 | ---------------------- |:--------------------------------------------:|:---------------------------------------------:| ----------:|
 | WFAIS UJ | Staż na Wydziale Fizyki | 3.11.2025 | Kontakt do tomasz.stebel@uj.edu.pl
